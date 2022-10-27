@@ -68,12 +68,12 @@
       <td>Considering the rise in atmospheric pollution and climate change, this project aims on developing a ML model that will interface with IoT to reduce exhaust of CO and NOx while optimising engine performance </td>
     </tr>
     <tr>
-      <td><a href="/PREDICTIONS-OF-CO-NOx-EMISSION-FROM-AUTOMOBILES-TOWARDS-A-GREEN-ENVIRONMENT"><b>Project Topix!</b></a></td>
-      <td>Project info.</td>
+      <td><a href="https://github.com/gilbertxvictor/Portfolio"><b> Bike Sharing Analysis </b></a></td>
+      <td>Using the Bike Sharing data to discover trends that can improve revenue and help target new customers via Ads</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kennytheanalystt/Covid-19-data-set"><b>Data analysis with SQL(covid-19 data-set)!</b></a></td>
-      <td>This project take a look at covid-19 trend through 2020-2022 by differnt dimention eg Death-rate and Vaccination rate usind Postgresql.</td>
+      <td><a href="https://github.com/gilbertxvictor/Portfolio/tree/main/Quantium"><b>Quantium Data Analytics Virtual Experience Program</b></a></td>
+      <td>You are part of Quantium's retail analytics team and have been approached by your client, the Category Manager for Chips, who wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region</td>
     </tr>
   </tbody>
 </table>  
