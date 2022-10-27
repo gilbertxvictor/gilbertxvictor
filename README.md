@@ -11,9 +11,6 @@
   <a href="https://twitter.com/victorxgilbert">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="victorgilbert88@gmail.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWTOW11HpoBWlITafRvYgQOcD0-5Bd-qFIGA&usqp=CAU" alt="email", width="40" height="40"/>
-  </a>
   
 </div>
 
@@ -48,11 +45,11 @@
 
 
 ## Competitions
-  <img src="https://user-images.githubusercontent.com/98072583/198279685-548df1e8-e9e8-42fc-8fc4-673c7f6a8743.png" title="DSN" alt="DSN" width="125" height="150"/>
-  <a>DSNxZINDI<a/>
+  <img src="https://user-images.githubusercontent.com/98072583/198279685-548df1e8-e9e8-42fc-8fc4-673c7f6a8743.png" title="DSN" alt="DSN" width="125" height="150"/>  <a>DSNxZINDI<a/>
 
-
-    <table>
+## PROJECTS
+    
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>☀️ Projects</b></td>
@@ -61,29 +58,32 @@
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/kennytheanalystt/Titanic_app"><b>Titanic AI App!</b></a></td>
-      <td>The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.This Full-Stack AI app was built based on a predictive Machine Learning Model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). The App is an AI application trained using Random Forest Classifier.</td>
+      <td><a href="https://github.com/gilbertxvictor/Classification-of-undesirable-events-in-oil-well-operation"><b>Oil Well Fault Classifer</b></a></td>
+      <td>Oil wells are prone to undesirable conditions such as Severe Slugging, Flow Instability, etc. Well intervention process takes time and a lot of resources. The detection and predictions of unwanted occurrences in oil and gas wells can lower maintenance costs and help minimize production losses, environmental disasters, and human fatalities. Using deep learning Neural Networks, build an ML model that predict the faults experienced in realtime 
+</td>
     </tr>
     <tr>
     <tr>
-      <td><a href="https://github.com/kennytheanalystt/FIFA21-EDA"><b>FIFA21 EDA!</b></a></td>
-      <td>Fifa is one of the most played console games in the world. FIFA 21 is a series of this. Fifa 21 is a soccer game.FIFA 21 is a football simulation video game published by Electronic Arts as part of the FIFA series. It is the 28th installment in the FIFA series, and was released on 9 October 2020 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. Enhanced versions for the PlayStation 5 and Xbox Series X and Series S were released on 3 December 2020, in addition to a version for Stadia. I performed Exploratory Data Analysis using the FIFA 21 data set. Later, I made visualizations using matplotlib & seaborn libraries.</td>
+      <td><a href="https://github.com/gilbertxvictor/PREDICTIONS-OF-CO-NOx-EMISSION-FROM-AUTOMOBILES-TOWARDS-A-GREEN-ENVIRONMENT"><b>Automobile Exhaust Optimiser</b></a></td>
+      <td>Considering the rise in atmospheric pollution and climate change, this project aims on developing a ML model that will interface with IoT to reduce exhaust of CO and NOx while optimising engine performance </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kennytheanalystt/planeCrash-Analysis"><b>Plane Crash Analysis!</b></a></td>
-      <td>This project take a look into airline crashes across the globe over a period of 20yrs. Statistical analysis and visualization was carried out on the data-set to answer question like: what is the likely cause of acident? etc..</td>
+      <td><a href="/PREDICTIONS-OF-CO-NOx-EMISSION-FROM-AUTOMOBILES-TOWARDS-A-GREEN-ENVIRONMENT"><b>Project Topix!</b></a></td>
+      <td>Project info.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/kennytheanalystt/Covid-19-data-set"><b>Data analysis with SQL(covid-19 data-set)!</b></a></td>
       <td>This project take a look at covid-19 trend through 2020-2022 by differnt dimention eg Death-rate and Vaccination rate usind Postgresql.</td>
     </tr>
+  </tbody>
+</table>  
+
+ 
 
 
 
 
-
-
-
+ 
 
 <!---
 gilbertxvictor/gilbertxvictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
