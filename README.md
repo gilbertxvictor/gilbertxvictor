@@ -14,7 +14,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools/Frameworks :
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
@@ -23,16 +23,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://www.inogic.com//assets/img/services/bg10.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://www.inogic.com//assets/img/services/bg10.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+  <img src="https://zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" width="200" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"  title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="Tensorflow"  alt="Tensoflow" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" title="Sklearn" alt="SKlearn" width="70" height="40"/>
+  
 </div>
 
-
-https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertxvictor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Badges 
 ![google-data-analytics-certificate](https://user-images.githubusercontent.com/98072583/198278069-94510cce-7816-42ff-97e7-a9f18cf441ae.png)
